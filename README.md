@@ -25,3 +25,11 @@ Enter target IP address: 127.0.0.1
 ## Disclaimer
 This project is developed for educational purposes only.
 Only scan systems you own or have permission to test.
+
+## Sample Output
+
+Scanning target: 127.0.0.1
+--------------------------------
+[OPEN] Port 8000 - HTTP-Alt
+--------------------------------
+Scan completed in 0:00:02.134567
