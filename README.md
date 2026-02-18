@@ -26,10 +26,12 @@ Enter target IP address: 127.0.0.1
 
 ```
 Scanning target: 127.0.0.1
---------------------------------
-[OPEN] Port 8000 - HTTP-Alt
---------------------------------
-Scan completed in 0:00:02.134567
+Scanning started at: 2026-02-18 16:43:56.494413
+--------------------------------------------------
+Port 80 (HTTP) is OPEN
+--------------------------------------------------
+Scanning completed at: 2026-02-18 16:43:56.495523
+Total scan duration: 0:00:00.001089
 ```
 
 ## Disclaimer
